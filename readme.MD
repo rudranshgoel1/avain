@@ -51,14 +51,14 @@ A special thanks to Anay and Aditya (again) who are helping me to make my projec
 |EC11 10K Rotary Encoder                                      |RotaryEncoder for Volume Control|1       |N/A             |N/A             |Self Sourced                                                            |Amazon      |
 |Raspberry Pi Pico                                            |MCU for the keyboard            |1       |₹599            |$6.47           |https://www.amazon.in/gp/product/B08WPNM7JB                             |Amazon      |
 |1N4148 Diodes                                                |Diodes for the switches         |1       |₹149            |$1.61           |https://www.amazon.in/gp/product/B084ZP5BJ3                             |Amazon      |
-|PCB                                                          |Main PCB of the keyboard        |5       |₹3,859.87       |$41.49          |                                                                        |            |
-|M3 x 8mm Bolt                                                |Screws                          |10      |N/A             |N/A             |Self Sourced                                                            |Self Sourced|
-|M3 Nuts                                                      |Screws                          |12      |N/A             |N/A             |Self Sourced                                                            |Self Sourced|
-|M3 x 5mm Heatset Insert                                      |Screws                          |25      |N/A             |N/A             |Self Sourced                                                            |Self Sourced|
+|PCB                                                          |Main PCB of the keyboard        |5       |₹3,859.87       |$41.49          |https://jlcpcb.com/                                                     |JLCPCB      |
+|M3 x 8mm Bolt                                                |Screws                          |10      |₹210            |$2.26           |https://www.amazon.in/dp/B07X8PHXKB                                     |Amazon      |
+|M3 Nuts                                                      |Screws                          |12      |₹74             |$0.79           |https://www.amazon.in/dp/B09J92WY5Q                                     |Amazon      |
+|M3 x 5mm Heatset Insert                                      |Screws                          |25      |₹196            |$2.11           |https://www.amazon.in/dp/B0CX1BS7DJ                                     |Amazon      |
 |Case                                                         |Case for the keyboard           |1       |₹500            |$5.40           |Print Legion                                                            |Print Legion|
 |                                                             |                                |        |                |                |                                                                        |            |
 |                                                             |                                |        |                |                |                                                                        |            |
-|                                                             |                                |        |₹12,700         |136.76          |                                                                        |            |
+|                                                             |                                |        |₹13,180         |$141.92         |                                                                        |            |
 
 
 ## Shipping
