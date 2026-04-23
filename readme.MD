@@ -39,7 +39,7 @@ I made some aesthetic for Avain. Like I have added holes on all the sides to mak
 ![image](images/bottom.png)
 
 link to full 3d thing-
-https://cad.onshape.com/documents/4ed86aec979a191abbaea04f/w/0de3f3de07dd510f46e22fad/e/19a866b01119f1b2fa2c9c33?renderMode=0&uiState=69c921f1b2c317188620b060
+https://cad.onshape.com/documents/6774359217ff8c97b90facb7/w/2137304fb52ca582983570b9/e/130904d3ca2552892ee4c097?renderMode=0&uiState=69ea524ad3ddea9c2c06a244
 
 A special thanks to Anay and Aditya ( once again ) who are helping me still to make my projects better. Love them so much!
 
